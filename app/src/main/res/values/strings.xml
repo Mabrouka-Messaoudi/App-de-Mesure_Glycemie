@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Messaoudi_Mabrouka_Mesure_Glycemie</string>
+    <string name="text">Mesure de niveau de glycémie</string>
+    <string name="votre_age">votre âge :</string>
+    <string name="qst">"Est-ce que vous jeûnez ? "</string>
+</resources>
